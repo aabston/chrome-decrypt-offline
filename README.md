@@ -88,8 +88,6 @@ Output is a pretty Rich table — site, username, and the encryption version tag
 
 On first run, you'll be prompted interactively for the masterkey file path, user SID, and Windows login password. All inputs are cached in `.formdata.json` so subsequent runs pre-fill the values — just press Enter to reuse them.
 
-Tab completion works on file paths. Passwords are prompted with `getpass` (hidden input).
-
 Decryption output example:
 ![Decryption](./images/success_decrypt.png)
 
