@@ -1,0 +1,21 @@
+[
+  {
+    "state": "samples/sample_chrome_v20/Local State",
+    "paths": {
+      "mk_path": "samples/sample_chrome_v20/secretStorage/user-dpapi/2d478a89-7dc8-45fa-8a0f-47cb1ecbbb39",
+      "sid": "S-1-5-21-3229131904-252178668-439053554-1002",
+      "password": "P@ssw0rd",
+      "system_userkey": "bf5501547ab0d56860bd57dee4e3c6a0b56e8d07",
+      "system_dpapi_key": "samples/sample_chrome_v20/secretStorage/system-dpapi/8f2dc4fc-b1e0-4e93-b00f-ffbf95a554cc",
+      "ksp_key": "samples/sample_chrome_v20/secretStorage/ksp/7096db7aeb75c0d3497ecd56d355a695_87ef50bf-5091-4c01-bfe1-ccc7a684f61f"
+    }
+  },
+  {
+    "state": "samples/sample_chrome_v10/Local State",
+    "paths": {
+      "mk_path": "samples/sample_chrome_v10/secretStorage/user-dpapi/8f2fbc9e-8e2d-49fe-94dd-c7705ef037a9",
+      "sid": "S-1-5-21-3229131904-252178668-439053554-1002",
+      "password": "P@ssw0rd"
+    }
+  }
+]

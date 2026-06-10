@@ -1,0 +1,4 @@
+username: user007
+password: P@ssw0rd
+SID: S-1-5-21-3229131904-252178668-439053554-1002
+
