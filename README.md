@@ -7,7 +7,7 @@
 
 ---
 
-A proof-of-concept for inspecting and decrypting Chrome's saved credentials and cookies from a Windows profile. Handles all modern Chrome encryption schemes including the [App-Bound Encryption](https://security.googleblog.com/2024/07/improving-security-of-chrome-cookies-on.html) introduced in Chrome 127.
+A proof-of-concept for inspecting and decrypting Chrome's saved credentials and cookies from a Windows profile. Handles all modern Chrome encryption schemes including the [App-Bound Encryption](https://medium.com/@alfred.abston/chrome-abe-v20-offline-password-decryption-on-windows-b26a8d857900) introduced in Chrome 127.
 
 ---
 
